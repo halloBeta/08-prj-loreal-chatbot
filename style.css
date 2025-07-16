@@ -141,3 +141,34 @@ body {
 .site-footer a:hover {
   color: #666666;
 }
+
+body {
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  background-color: #fffaf5;
+  color: #111;
+}
+
+.site-header {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.site-title {
+  font-size: 28px;
+  font-weight: 700;
+  color: #000;
+}
+
+.chat-window {
+  border: 1px solid #e5c07b;
+  background: #fff;
+}
+
+.chat-form button {
+  background-color: #e5c07b;
+  color: #000;
+}
+
+.chat-form button:hover {
+  background-color: #c9aa53;
+}
